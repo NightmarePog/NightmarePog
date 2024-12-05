@@ -1,6 +1,6 @@
 Hello I am Nightmare :)
 <br></br>
-17yo student CS student
+17yo CS student
 I like rockets
 Sometimes I also code something
 Sometimes I am also very stupid
