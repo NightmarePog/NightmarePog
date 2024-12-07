@@ -7,8 +7,7 @@
 <br></br>
 17yo CS student
 <br></br>
-I like rockets
-<br></br>
+I like Rocketry
 Sometimes I also code something
 Sometimes I am also very stupid
 Meow :3
