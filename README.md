@@ -8,8 +8,11 @@
 17yo CS student
 <br></br>
 I like Rocketry
+<br></br>
 Sometimes I also code something
+<br></br>
 Sometimes I am also very stupid
+<br></br>
 Meow :3
 <!---
 nothing to see here
