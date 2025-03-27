@@ -1,17 +1,15 @@
-# Hello I am Nightmare :)
-
-<br></br>
+# Hello I am Nightmare :3
+## About me:
+- Professional idiot
+- silly guy
+- 17yo
+- Sometimes I code
+- Meow :3
+- I love plushies
+- Fullstack dev
+## Languages:
+- Python
+- Lua
+- Typescript
+## stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NightmarePog&layout=compact)
-<br></br>
-17yo CS student
-<br></br>
-I like Rocketry
-<br></br>
-Sometimes I also code something
-<br></br>
-Sometimes I am also very stupid
-<br></br>
-Meow :3
-<!---
-nothing to see here
---->
