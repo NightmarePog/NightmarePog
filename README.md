@@ -13,3 +13,5 @@
 - Typescript
 ## stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NightmarePog&layout=compact)
+## Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=nightmarepog&theme=darkhub)
