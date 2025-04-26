@@ -6,6 +6,7 @@
 - Sometimes I code
 - Meow :3
 - I love plushies
+- Lazy af
 - Fullstack dev
 ## Languages:
 - Python
