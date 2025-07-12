@@ -2,7 +2,7 @@
 ## About me:
 - Professional idiot
 - silly guy
-- 17yo
+- 18yo
 - Sometimes I code
 - Meow :3
 - I love plushies
