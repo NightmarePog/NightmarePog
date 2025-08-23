@@ -10,5 +10,5 @@
 <h2>Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightmarePog&layout=compact" alt="Top Langs">
 <h2>Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=nightmarepog&theme=darkhub" alt="Top Langs">
+  <img src="https://github-profile-trophy.vercel.app/?username=nightmarepog&theme=darkhub" alt="Trophies">
 </div>
