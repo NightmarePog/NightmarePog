@@ -4,7 +4,7 @@
 
 <p>Hey! I am Lukáš! 18 years old student of CS, I really enjoy my major and I code almost everyday, also I am extremly silly person :3</p>
 <p>if you wanna contact me, feel free to chat with me on discord! @nightmarepog</p>
-<h2>I worked with</h2>
+<h2>I work with</h2>
 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,godot,lua,python,c,linux,arch,blender,docker,git,md,nextjs,nodejs,postman,postgres,robloxstudio,sqlite,vscode," alt="Top Langs">
 <h2>Stats</h2>
