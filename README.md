@@ -2,7 +2,7 @@
 <h1>Hello I am Lukas :3</h1>
 
 
-<p>Hey! I am Lukáš! 18 years old student of CS, I really enjoy my major and I code almost everyday, also I am extremly silly person :3</p>
+<p>Hey! I am Lukáš! 18 years old student of CS, I really enjoy my major and I code almost everyday!</p>
 <p>if you wanna contact me, feel free to chat with me on discord! @nightmarepog</p>
 <h2>I work with</h2>
 
