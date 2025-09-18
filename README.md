@@ -11,5 +11,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nightmarepog&theme=darkhub" alt="Trophies">
 <h2>Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=NightmarePog&show_icons=true&theme=transparent" alt="Ranking" height="165">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightmarePog&layout=compact&theme=transparent" alt="Top Langs" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightmarePog&layout=compact&theme=transparent&cache_seconds=0" alt="Top Langs" height="165">
 </div>
