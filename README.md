@@ -6,7 +6,7 @@
 <p>if you wanna contact me, feel free to chat with me on discord! @nightmarepog</p>
 <h2>I work with</h2>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,godot,lua,python,c,linux,arch,blender,docker,git,md,nextjs,nodejs,postman,postgres,robloxstudio,sqlite,vscode," alt="Top Langs">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,godot,lua,python,c,linux,blender,docker,git,md,nextjs,nodejs,postman,robloxstudio,sqlite,vscode," alt="Top Langs">
 <h2>Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=nightmarepog&theme=darkhub" alt="Trophies">
 <h2>Stats</h2>
