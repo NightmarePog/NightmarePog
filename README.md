@@ -11,8 +11,8 @@
 
 <h2>Stats</h2>
   <img src="https://streak-stats.demolab.com/?user=NightmarePog&theme=dark&hide_border=true" alt="Streak" height="165">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NightmarePog&layout=compact&theme=transparent&cache_seconds=3600" alt="Top Langs" height="165">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NightmarePog&layout=compact&theme=dark&cache_seconds=3600" alt="Top Langs" height="165">
 
 <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NightmarePog&show_icons=true&theme=transparent" alt="Stats" height="165">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NightmarePog&show_icons=true&theme=dark" alt="Stats" height="165">
 </div>
