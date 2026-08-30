@@ -7,7 +7,7 @@
 
 | Web | Game Dev | Low End | Other |
 |-----|----------|---------|-------|
-| ![Web](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,java,spring&w=50&h=50) | ![Game](https://skillicons.dev/icons?i=godot,lua,blender,robloxstudio&w=50&h=50) | ![C++](https://skillicons.dev/icons?i=cpp,c,rust&w=50&h=50) | ![Other](https://skillicons.dev/icons?i=kotlin&w=50&h=50) |
+| ![Web](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,java,spring&w=50&h=50) | ![Game](https://skillicons.dev/icons?i=godot,blender,robloxstudio&w=50&h=50) | ![C++](https://skillicons.dev/icons?i=cpp,c,rust&w=50&h=50) | ![Other](https://skillicons.dev/icons?i=kotlin,lua&w=50&h=50) |
 
 <h2>Stats</h2>
   <img src="https://streak-stats.demolab.com/?user=NightmarePog&theme=dark&hide_border=true" alt="Streak" height="165">
