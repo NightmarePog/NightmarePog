@@ -1,7 +1,9 @@
 <div align="center">
-<h1>Hello I am Lukas :3</h1>
+<h1>Lukáš Erl</h1>
 
-<p>if you wanna contact me, feel free to chat with me on discord! @nightmarepog</p>
+<p>Student software developer from the Czech Republic.</p>
+<p>TypeScript · Kotlin · Java/Spring · Rust · C/C++</p>
+<p><a href="https://nightmare-webpage-nightmarepogs-projects.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/luk%C3%A1%C5%A1-erl-7011102a6/">LinkedIn</a></p>
 
 <h2>Stacks</h2>
 
